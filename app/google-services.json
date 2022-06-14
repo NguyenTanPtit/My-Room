@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783330233108",
+    "firebase_url": "https://my-room-ptit1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-room-ptit1",
+    "storage_bucket": "my-room-ptit1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783330233108:android:2d446bbdc507e7bd8cd001",
+        "android_client_info": {
+          "package_name": "com.example.myroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783330233108-ij1k43bo7h2i90865gugk76rnc1o89cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myroom",
+            "certificate_hash": "212329868ec6e7e1836c3a33c25b3487472a5d76"
+          }
+        },
+        {
+          "client_id": "783330233108-h0ugus345abte9u769qupjliilag511a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mv0qRcFBZrnRlpLIz6VXnjmR9F97c_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783330233108-h0ugus345abte9u769qupjliilag511a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

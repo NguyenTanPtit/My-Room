@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Room</string>
+    <string name="nav_drawer_open">Open nav</string>
+    <string name="nav_drawer_close">Close nav</string>
+</resources>

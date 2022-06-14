@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Trang chủ"
+        android:icon="@drawable/home_page_icon" />
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Cá nhân"
+        android:icon="@drawable/profile_icon"/>
+    <item
+        android:id="@+id/nav_sub"
+        android:title="Đăng kí cho thuê"
+        android:icon="@drawable/add_icon" />
+    <item
+        android:id="@+id/nav_management_room"
+        android:title="Quản lý phòng"
+        android:icon="@drawable/icon_management" />
+    <item
+        android:id="@+id/nav_manage_renter"
+        android:title="Quản lý người thuê"
+        android:icon="@drawable/icon_people_manage"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Đăng xuất"
+        android:icon="@drawable/logout_icon"/>
+</menu>
